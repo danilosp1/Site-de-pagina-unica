@@ -127,3 +127,12 @@
         margin: 1.5%;
     }
 }
+
+@media only screen and (max-width: 500px){
+    #header .nav-list ul{
+        left: 160%;
+    }
+    #services .service-top{
+        width: auto;
+    }
+}
